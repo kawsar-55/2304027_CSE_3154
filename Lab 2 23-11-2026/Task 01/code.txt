@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Kawsar Ahmed</title>
+</head>
+<body>
+<center>
+
+  <h1>Kawsar Ahmed</h1>
+  <p>ETE Student, RUET | Roll: 2304027</p>
+
+  <h2>About Me</h2>
+  <p>I am a third-year ETE student at RUET, passionate about web development and problem solving.</p>
+
+  <h2>Education</h2>
+  <table border="1" cellpadding="8">
+    <tr><th>Degree</th><th>Institution</th><th>Year</th><th>Result</th></tr>
+    <tr><td>B.Sc. in ETE</td><td>RUET</td><td>2024 – Present</td><td>CGPA: 3.00</td></tr>
+    <tr><td>HSC</td><td>Notre Dame College</td><td>2023</td><td>GPA: 5.00</td></tr>
+  </table>
+
+  <h2>Skills</h2>
+  <p>Languages: C, C++, Python, JavaScript</p>
+  <p>Web: HTML5, CSS3, Git &amp; GitHub</p>
+  <p>Tools: VS Code, Linux, MySQL</p>
+
+  <h2>Interests</h2>
+  <p>1. Competitive Programming</p>
+  <p>2. Reading Tech Blogs</p>
+  <p>3. Photography</p>
+
+  <h2>Contact</h2>
+  <p>
+    Email: <a href="mailto:kawsar27ahmed@gmail.com">kawsar27ahmed@gmail.com</a><br>
+    GitHub: <a href="https://github.com/kawsar-55">github.com/kawsar-55</a><br>
+    Location: Rajshahi, Bangladesh
+  </p>
+
+</center>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ByteZone Tech Shop</title>
+</head>
+<body id="top">
+
+  <h1>ByteZone Tech Shop</h1>
+  <nav>
+    <a href="#laptops">Laptops</a> |
+    <a href="#smartphones">Smartphones</a> |
+    <a href="#accessories">Accessories</a> |
+    <a href="#summary">Price Table</a>
+  </nav>
+  <hr>
+
+  <section id="laptops">
+    <h2>Laptops</h2>
+    <ul>
+      <li><strong>ProBook Ultra 14</strong> — Intel i7, 16GB RAM, 512GB SSD ($950)</li>
+      <li><strong>DevStation Air 15</strong> — Ryzen 7, 32GB RAM, 1TB SSD ($1,250)</li>
+    </ul>
+    <a href="#top">Back to Top</a>
+  </section>
+  <hr>
+
+  <section id="smartphones">
+    <h2>Smartphones</h2>
+    <ul>
+      <li><strong>Nova X1 Pro</strong> — 6.7" AMOLED, 50MP Camera ($699)</li>
+      <li><strong>PixelLite 5G</strong> — 6.1" OLED, 8GB RAM, 128GB ($420)</li>
+    </ul>
+    <a href="#top">Back to Top</a>
+  </section>
+  <hr>
+
+  <section id="accessories">
+    <h2>Accessories</h2>
+    <ul>
+      <li><strong>Mechanical Keyboard</strong> — 75% layout, Bluetooth &amp; USB-C ($85)</li>
+      <li><strong>ANC Headphones</strong> — Noise Cancellation, 40h battery ($140)</li>
+    </ul>
+    <a href="#top">Back to Top</a>
+  </section>
+  <hr>
+
+  <section id="summary">
+    <h2>Price Summary</h2>
+    <table border="1" cellpadding="6" cellspacing="0">
+      <tr>
+        <th>Product</th>
+        <th>Category</th>
+        <th>Price</th>
+        <th>Status</th>
+      </tr>
+      <tr>
+        <td>ProBook Ultra 14</td>
+        <td>Laptops</td>
+        <td>$950</td>
+        <td>In Stock</td>
+      </tr>
+      <tr>
+        <td>Nova X1 Pro</td>
+        <td>Smartphones</td>
+        <td>$699</td>
+        <td>In Stock</td>
+      </tr>
+      <tr>
+        <td>Mechanical Keyboard</td>
+        <td>Accessories</td>
+        <td>$85</td>
+        <td>In Stock</td>
+      </tr>
+    </table>
+    <p><a href="#top">Back to Top</a></p>
+  </section>
+
+  <hr>
+  <footer>&copy; 2026 ByteZone Tech Shop</footer>
+
+</body>
+</html>

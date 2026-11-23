@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Home</title>
+</head>
+<body>
+  <h1>Kawsar Ahmed — Portfolio</h1>
+  <nav>
+    <a href="index.html">Home</a> |
+    <a href="projects.html">Projects</a> |
+    <a href="contact.html">Contact</a>
+  </nav>
+  <hr>
+
+  <h2>Welcome</h2>
+  <p>I build software and web interfaces. Check my <a href="projects.html">Projects</a> or <a href="contact.html">Contact</a> me.</p>
+
+  <h2>Highlights</h2>
+  <ul>
+    <li>3+ web development projects</li>
+    <li>Strong in Data Structures &amp; Algorithms</li>
+    <li>Active on GitHub</li>
+  </ul>
+
+  <hr>
+  <footer>&copy; 2026 Kawsar Ahmed</footer>
+</body>
+</html>
